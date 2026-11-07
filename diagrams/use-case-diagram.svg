@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">UML Use Case Diagram — News Channel Program</title>
+  <desc id="desc">Five actors interact with six use cases inside the News Channel Program system boundary. The diagram shows eight associations.</desc>
+  <defs>
+    <style>
+      .heading{font:700 25px Arial,sans-serif;fill:#17324d;letter-spacing:1px}
+      .boundary{fill:#fbfdff;stroke:#315b7d;stroke-width:3}
+      .usecase{fill:#eaf3fb;stroke:#315b7d;stroke-width:2}
+      .uc-label{font:600 17px Arial,sans-serif;fill:#18354d;text-anchor:middle}
+      .actor-line{stroke:#263746;stroke-width:2.4;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .association{stroke:#536b7d;stroke-width:1.8;fill:none}
+      .actor-label{font:600 16px Arial,sans-serif;fill:#243746;text-anchor:middle}
+      .note{font:13px Arial,sans-serif;fill:#5d6b78}
+    </style>
+  </defs>
+
+  <rect x="225" y="55" width="750" height="585" rx="18" class="boundary"/>
+  <text x="600" y="91" class="heading" text-anchor="middle">NEWS CHANNEL PROGRAM</text>
+
+  <!-- Actor-to-use-case associations (drawn behind the use cases) -->
+  <g class="association">
+    <path d="M130 235 L315 200"/>
+    <path d="M130 235 L315 340"/>
+    <path d="M130 455 L315 200"/>
+    <path d="M130 455 L315 340"/>
+    <path d="M1070 340 L885 340"/>
+    <path d="M1070 340 L595 480"/>
+    <path d="M1070 200 L885 200"/>
+    <path d="M1070 480 L885 480"/>
+  </g>
+
+  <!-- Use cases -->
+  <g>
+    <ellipse cx="455" cy="200" rx="140" ry="48" class="usecase"/>
+    <text x="455" y="206" class="uc-label">Create news segment</text>
+
+    <ellipse cx="455" cy="340" rx="140" ry="48" class="usecase"/>
+    <text x="455" y="346" class="uc-label">Report news live</text>
+
+    <ellipse cx="455" cy="480" rx="140" ry="48" class="usecase"/>
+    <text x="455" y="486" class="uc-label">View program</text>
+
+    <ellipse cx="745" cy="200" rx="140" ry="48" class="usecase"/>
+    <text x="745" y="206" class="uc-label">Provide advertisement</text>
+
+    <ellipse cx="745" cy="340" rx="140" ry="48" class="usecase"/>
+    <text x="745" y="346" class="uc-label">Interact via social media</text>
+
+    <ellipse cx="745" cy="480" rx="140" ry="48" class="usecase"/>
+    <text x="745" y="475" class="uc-label">
+      <tspan x="745" dy="0">Manage broadcast</tspan>
+      <tspan x="745" dy="20">equipment</tspan>
+    </text>
+  </g>
+
+  <!-- Left-side actors -->
+  <g transform="translate(100 235)">
+    <circle cx="0" cy="-34" r="13" class="actor-line"/>
+    <path d="M0 -21 L0 25 M-25 -2 L25 -2 M0 25 L-20 55 M0 25 L20 55" class="actor-line"/>
+    <text x="0" y="82" class="actor-label">News producer</text>
+  </g>
+  <g transform="translate(100 455)">
+    <circle cx="0" cy="-34" r="13" class="actor-line"/>
+    <path d="M0 -21 L0 25 M-25 -2 L25 -2 M0 25 L-20 55 M0 25 L20 55" class="actor-line"/>
+    <text x="0" y="82" class="actor-label">Reporter</text>
+  </g>
+
+  <!-- Right-side actors -->
+  <g transform="translate(1100 200)">
+    <circle cx="0" cy="-34" r="13" class="actor-line"/>
+    <path d="M0 -21 L0 25 M-25 -2 L25 -2 M0 25 L-20 55 M0 25 L20 55" class="actor-line"/>
+    <text x="0" y="82" class="actor-label">Advertiser</text>
+  </g>
+  <g transform="translate(1100 340)">
+    <circle cx="0" cy="-34" r="13" class="actor-line"/>
+    <path d="M0 -21 L0 25 M-25 -2 L25 -2 M0 25 L-20 55 M0 25 L20 55" class="actor-line"/>
+    <text x="0" y="82" class="actor-label">Viewer</text>
+  </g>
+  <g transform="translate(1100 480)">
+    <circle cx="0" cy="-34" r="13" class="actor-line"/>
+    <path d="M0 -21 L0 25 M-25 -2 L25 -2 M0 25 L-20 55 M0 25 L20 55" class="actor-line"/>
+    <text x="0" y="82" class="actor-label">Technical team</text>
+  </g>
+
+  <text x="600" y="675" class="note" text-anchor="middle">UML use case model • 5 actors • 6 use cases • 8 associations</text>
+</svg>
