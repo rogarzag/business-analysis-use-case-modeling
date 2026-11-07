@@ -17,16 +17,22 @@ The work was completed as part of the **IBM Business Analyst Professional Certif
 
 ## System scope
 
-The system boundary is **News Channel Program**. The model includes five actors and six use cases:
+The system boundary is **News Channel Program**.
 
-| Actors | Use cases |
-| --- | --- |
-| News producer | Create news segment |
-| Reporter | Report news live |
-| Viewer | View program |
-| Technical team | Interact via social media |
-| Advertiser | Manage broadcast equipment |
-|  | Provide advertisement |
+**Actors (5):**
+- News producer
+- Reporter
+- Viewer
+- Technical team
+- Advertiser
+
+**Use cases (6):**
+- Create news segment
+- Report news live
+- View program
+- Interact via social media
+- Manage broadcast equipment
+- Provide advertisement
 
 See [Use Case Analysis](use-case-analysis.md) for the actor descriptions, use case definitions, and associations.
 
