@@ -68,4 +68,4 @@ Separating actors from use cases makes the system boundary easier to understand 
 
 ## 8. Deliverable
 
-See the [UML use case diagram](diagrams/use-case-diagram.svg) for the visual representation of the five actors, six use cases, and eight associations.
+See the [UML use case diagram](diagrams/news-channel-use-case-original.png) for the visual representation of the five actors, six use cases, and eight associations.
