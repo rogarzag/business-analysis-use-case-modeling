@@ -39,8 +39,11 @@ See [Use Case Analysis](use-case-analysis.md) for the actor descriptions, use ca
 ## Project files
 
 - [Use Case Analysis](use-case-analysis.md) — actors, use cases, and their relationships.
-- [UML Use Case Diagram](diagrams/use-case-diagram.svg) — visual model of the system boundary and actor interactions.
-- [Explore the interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94) — open the original diagram in Lucidchart.
+### Original diagram
+
+![Original use case diagram created in Lucidchart](diagrams/news-channel-use-case-original.png)
+
+[View the original diagram image](diagrams/news-channel-use-case-original.png) · [Explore the interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94) — open the original diagram in Lucidchart.
 
 ## Tools and methods
 
