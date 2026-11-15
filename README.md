@@ -39,6 +39,10 @@ See [Use Case Analysis](use-case-analysis.md) for the actor descriptions, use ca
 ## Project files
 
 - [Use Case Analysis](use-case-analysis.md) — actors, use cases, and their relationships.
+- [Use Case Analysis — PDF](docs/News_Channel_Use_Cases_LinkedIn.pdf) — complete document with the Lucidchart diagram embedded.
+- [Original use case diagram — PNG](diagrams/news-channel-use-case-original.png) — exported visual model.
+- [Interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94) — editable interactive version.
+
 ### Original diagram
 
 ![Original use case diagram created in Lucidchart](diagrams/news-channel-use-case-original.png)
