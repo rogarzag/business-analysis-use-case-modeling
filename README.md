@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [business analysis use case modeling](https://rogarzag.github.io/projects/news-channel-program/)  
+**Portfolio page:** [News Channel Program](https://rogarzag.github.io/projects/news-channel-program/)  
 **GitHub repository:** [business-analysis-use-case-modeling](https://github.com/rogarzag/business-analysis-use-case-modeling)  
 **Project focus:** Business Analysis · Requirements Documentation · UML Use Case Modeling  
 **Project context:** IBM Business Analyst Professional Certificate  
