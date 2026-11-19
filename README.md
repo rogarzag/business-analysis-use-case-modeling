@@ -6,7 +6,7 @@
 **GitHub repository:** [business-analysis-use-case-modeling](https://github.com/rogarzag/business-analysis-use-case-modeling)  
 **Project focus:** Business Analysis · Requirements Documentation · UML Use Case Modeling  
 **Project context:** IBM Business Analyst Professional Certificate  
-**Data / case covered:** Illustrative live television news broadcasting system  
+**Data / project coverage:** Illustrative live television news broadcasting system  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
