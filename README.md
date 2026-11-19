@@ -1,8 +1,17 @@
 # News Channel Program — UML Use Case Modeling
 
-A practical Business Analysis exercise focused on actor identification, use case analysis, and UML modeling for a live television news program.
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [business analysis use case modeling](https://rogarzag.github.io/projects/news-channel-program/)  
+**GitHub repository:** [business-analysis-use-case-modeling](https://github.com/rogarzag/business-analysis-use-case-modeling)  
+**Project focus:** Business Analysis · Requirements Documentation · UML Use Case Modeling  
+**Project context:** IBM Business Analyst Professional Certificate  
+**Data / case coverage:** Illustrative live television news broadcasting system  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
-## Project overview
+## Project Overview
+
+A practical Business Analysis exercise focused on actor identification, use case analysis, and UML modeling for a live television news program.
 
 This project defines the main interactions involved in producing and broadcasting a prime-time news program. It identifies the people and supporting roles that interact with the system, describes the system's key functions, and represents those interactions in a UML use case diagram.
 
@@ -63,3 +72,7 @@ Use case modeling helps clarify system scope and stakeholder interactions before
 ---
 
 *Project developed for learning and portfolio purposes. The model is an illustrative analysis of a news program, not a specification of a particular broadcaster's production system.*
+
+## Conclusion
+
+The use case model defines the News Channel Program system boundary and makes the interactions among five actors and six use cases explicit. It provides a structured starting point for discussing system scope and stakeholder responsibilities before detailed requirements or solution design. The model is an illustrative learning exercise, not a specification of an actual broadcaster.
