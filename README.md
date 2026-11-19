@@ -6,7 +6,7 @@
 **GitHub repository:** [business-analysis-use-case-modeling](https://github.com/rogarzag/business-analysis-use-case-modeling)  
 **Project focus:** Business Analysis · Requirements Documentation · UML Use Case Modeling  
 **Project context:** IBM Business Analyst Professional Certificate  
-**Data / case coverage:** Illustrative live television news broadcasting system  
+**Data / case covered:** Illustrative live television news broadcasting system  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -67,7 +67,7 @@ See [Use Case Analysis](use-case-analysis.md) for the actor descriptions, use ca
 
 ## Key takeaway
 
-Use case modeling helps clarify system scope and stakeholder interactions before defining or evaluating a solution. In this example, it makes visible how editorial, technical, audience, and commercial roles contribute to a live news broadcast.
+A use case diagram helps show what a system is expected to do and who interacts with it before more detailed requirements are prepared. In this example, it makes visible how editorial, technical, audience, and commercial roles contribute to a live news broadcast.
 
 ---
 
